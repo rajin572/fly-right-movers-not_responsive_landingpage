@@ -1,0 +1,223 @@
+body {
+    margin: 0%;
+}
+
+.title {
+    width: 100%;
+    height: 100px;
+    background-color: #000;
+    position: relative;
+}
+
+.comimg {
+    width: 100px;
+    height: 100px;
+    margin-left: 40px;
+}
+
+.comname {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    margin: 0px;
+    top: 15px;
+    left: 135px;
+}
+
+.comname:hover {
+    color: rgb(253, 122, 89);
+}
+
+.thome {
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(255, 51, 0);
+    margin: 0;
+    font-weight: bold;
+    position: absolute;
+    left: 500px;
+    top: 35px;
+}
+
+.tabout {
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(255, 255, 255);
+    margin: 0;
+    font-weight: bold;
+    position: absolute;
+    left: 580px;
+    top: 35px;
+}
+
+.tabout:hover {
+    color: rgb(255, 51, 0);
+}
+
+.tservices {
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(255, 255, 255);
+    margin: 0;
+    position: absolute;
+    left: 670px;
+    top: 35px;
+}
+
+.tservices:hover {
+    color: rgb(255, 51, 0);
+    font-weight: bold;
+}
+
+.ttips {
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(255, 255, 255);
+    margin: 0;
+    font-weight: bold;
+    position: absolute;
+    left: 790px;
+    top: 35px;
+}
+
+.ttips:hover {
+    color: rgb(255, 51, 0);
+}
+
+.tcontact {
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(255, 255, 255);
+    margin: 0;
+    font-weight: bold;
+    position: absolute;
+    left: 870px;
+    top: 35px;
+}
+
+.tcontact:hover {
+    color: rgb(255, 51, 0);
+}
+
+.fq {
+    width: 20%;
+    height: 100px;
+    background-color: rgb(255, 75, 30);
+    color: #ffffff;
+    margin: 0;
+    font-weight: bold;
+    position: absolute;
+    right: 0px;
+    top: 0;
+}
+
+.fqp {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 30px;
+    margin-left: 90px;
+}
+
+.fq:hover {
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 75, 30);
+}
+
+.fdiv {
+    width: 100%;
+    height: 700px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.2)), url("jon-tyson-sd1cyKulw4s-unsplash.jpg");
+    background-size: 100% 700px;
+    background-repeat: no-repeat;
+    position: relative;
+    margin: 0;
+}
+
+.dou {
+    position: absolute;
+    top: 400px;
+    left: 100px;
+}
+
+.mh1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 60px;
+    margin: 0%;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 200px;
+    left: 100px;
+}
+
+.mh2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 55px;
+    margin: 0%;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 270px;
+    left: 100px;
+}
+
+.lastp {
+    width: 250%;
+    height: 120px;
+    color: rgb(255, 75, 30);
+    background-color: rgb(255, 255, 255);
+    margin: 0;
+}
+
+.lastp:hover {
+    color: rgb(255, 75, 30);
+    background-color: rgb(255, 255, 255);
+}
+
+.lastp2 {
+    width: 250%;
+    height: 120px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 75, 30);
+    margin: 0;
+    position: absolute;
+    top: 15px;
+    left: 213px;
+}
+
+.lp {
+    font-size: 15px;
+    text-align: center;
+    position: relative;
+    top: 50px;
+}
+
+.lp2 {
+    font-size: 15px;
+    text-align: center;
+    position: relative;
+    top: 20px;
+}
+
+.input {
+    width: 15%;
+    height: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    background-color: rgb(255, 75, 30);
+    color: rgb(255, 255, 255);
+    text-shadow: 0 0 5px rgb(2, 2, 2);
+    box-shadow: 0 0 10px black;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    position: absolute;
+    right: 50px;
+    bottom: 100px;
+}
+
+.input:hover {
+    background-color: rgb(112, 112, 112);
+    color: rgb(0, 0, 0);
+    text-shadow: 0 0 10px rgb(255, 255, 255);
+    box-shadow: 0 0 5px rgb(255, 255, 255);
+}
